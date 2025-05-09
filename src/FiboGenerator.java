@@ -3,7 +3,7 @@
 // CEN 4802C
 
 /**
- * A simple utility for computing Fibonacci numbers.
+ * Utility for computing Fibonacci numbers.
  */
 public class FiboGenerator {
 
