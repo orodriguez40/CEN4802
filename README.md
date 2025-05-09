@@ -1,3 +1,1 @@
-# Otoniel Rodriguez-Perez
-## CEN 4802C 
-### Software Int, Config, and Test
+This branch addresses issue #1 class needing Javadoc Comments.
